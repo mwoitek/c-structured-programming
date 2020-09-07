@@ -1,0 +1,5 @@
+Number of integers in the input file: 17
+1st integer: 16
+Number of integers read into the array "data": 16
+Largest integer in "data": 31
+Average of the integers in "data": 16.000000
